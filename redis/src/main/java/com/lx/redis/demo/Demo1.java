@@ -1,4 +1,4 @@
-package com.lx.redis;
+package com.lx.redis.demo;
 
 import redis.clients.jedis.Jedis;
 
@@ -6,7 +6,7 @@ import java.util.Random;
 
 /**
  * @program: bunny
- * @description: 手机验证码3s过期，每个手机每天只能验证3次
+ * @description: 手机验证码3s过期，每个手机每天只能验证3次，jedis操作
  * @author: james
  * @create: 2021-12-19 11:24
  **/
